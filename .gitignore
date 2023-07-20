@@ -1,0 +1,7 @@
+.vscode/
+host-idp/vendor
+host-idp/var
+remote/vendor
+remote/var
+.idea
+*DS_store
